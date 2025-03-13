@@ -21,10 +21,10 @@ Part Of Dream BOT
 
 1. **Clone The Repositories:**
    ```bash
-   git clone https://github.com/vonssy/DreamerQuests-BOT.git
+   git clone https://github.com/bilalrai12/POD.git
    ```
    ```bash
-   cd DreamerQuests-BOT
+   cd POD
    ```
 
 2. **Install Requirements:**
